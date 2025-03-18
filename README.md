@@ -1,8 +1,9 @@
 # Azure Cognitive Search - AI Search para Indexação e Consulta
+- Grupo de serviços criados
 ![Grupo de serviços criados](https://github.com/user-attachments/assets/abed2df5-2da8-4ac9-9165-211603080911)
+- Arquivos contendo as reviews a serem consultadas
 ![Arquivos contendo as reviews a serem consultadas](https://github.com/user-attachments/assets/d5dfa422-0f6e-4877-a402-e8f29c42c7c1)
-
-
+- Consulta de reviews de uma cafeteria funcionando
 ![Consulta de reviews de uma cafeteria funcionando](https://github.com/user-attachments/assets/b793bd55-9028-423e-b7ed-1739868d5045)
 
 ## 📌 Introdução
